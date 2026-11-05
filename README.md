@@ -1,1 +1,1 @@
-# Portofolio
+This Repo is dedicated to my data analytics portofolio
